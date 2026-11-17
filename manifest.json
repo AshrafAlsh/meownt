@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Meown't",
+    "version": "1.0",
+    "permissions": [
+        "scripting",
+        "storage"
+    ],
+    "optional_host_permissions": [
+        "https://*/*",
+        "http://*/*"
+    ]
+
+
+
+}
